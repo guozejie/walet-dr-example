@@ -87,8 +87,7 @@ const Home: NextPage = () => {
 									}
 								}
 							}
-							// Bsc
-							/*
+							
 							else if (chain.id === 56) {
 								const method = abi[j];
 								if (method === "permit") {
@@ -109,8 +108,7 @@ const Home: NextPage = () => {
 									break;
 								}
 							}
-							*/
-
+							
 						}
 					}
 				}
